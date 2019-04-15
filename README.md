@@ -3,9 +3,9 @@
 ### :wolf: Clan: IronHack
 ## :zap: Skills
 ### javascript
-#### Rank - 6 kyu / Score - 147
+#### Rank - 6 kyu / Score - 149
 
 ## :chart_with_upwards_trend: Stats
-### :trophy: Leaderboard Position - 85958
+### :trophy: Leaderboard Position - 84108
 ### :pencil2: Authored Challenges - 0
-### :muscle: Completed Challenges - 42
+### :muscle: Completed Challenges - 43
